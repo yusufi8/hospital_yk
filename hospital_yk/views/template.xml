@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="hospital_yk_template" name="Hospital YK Template">
+        <t t-call="web.layout">
+            <div class="oe_structure"/>
+            <div class="container">
+                <h1>Welcome to Hospital YK Module</h1>
+                <p>This is a custom module for managing hospital appointments and patients.</p>
+            </div>
+        </t>
+    </template>
+</odoo>
