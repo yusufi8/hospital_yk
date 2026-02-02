@@ -588,12 +588,12 @@ For issues, questions, or suggestions:
 
 ## 🔄 Version History
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 18.0.1.1 | 2024 | Initial release with patient, appointment, and billing features |
+| Version | Date             | Changes |
+|---------|------------------|---------|
+| 18.0.1.1 | 2025<br/>October | Initial release with patient, appointment, and billing features |
 
 ---
 
-**Last Updated**: February 2026  
+**Last Updated**: February 2026
 **Odoo Version**: 18.0  
 **Status**: Active Development
